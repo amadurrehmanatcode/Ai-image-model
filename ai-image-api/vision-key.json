@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimal-card-452117-s7",
+  "private_key_id": "077eb38afcac6e9fdeb8ba35d09778dece5cbf26",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDiMoU4ousD69uX\neoppbOBebNy7twDqbXZ777Z6MRiZ0tdsm77oclSE6usZXEHYGcHDZ+ApJAqIlqTZ\nruq4QSEA8xJHC1+IjdueXH0TD0Wd9aV2PgER45exlClqmFQmW+fkFa0J8RaxyeQ0\nYxkUOKK0AVsfPB6a4mD5ll8g7Nqi9rMmv9UBUUAFhsk2yXUcXcXS+yGcF4j+QPO+\nZpmVB31DrrdmflrJL650kK5zQ/Jr7BtyGWuyFT7D8deItwoYsQ4EKrr58JOBvzKK\nRttjSAx9iQG2aX+KsGtbJPdLZk830MHFDRhZszv0BIoBGOVF6OsXVT1W3zPYC4nU\nSOYqFZ65AgMBAAECggEABJzkI54K7ecK8OFiXjkGsFZHABsAzUcTMf7W+VHz/vsS\nQphAgewG9jj2N2uuuhH4ZhxBsYUXI+bykK/lAIHvgt3yIvnD5nyCHI4lTNS0Zj7C\ns5EbI3rBNrFfUNmvaaLZLUkV4MyGWnTUDw9wTP3Er6gRbCclNqJkOOLMqNa7tLQK\nbaRSwu/Vd52h2/pxcyZhfrspKpyvZifLdrIqEQlHC2nYfYCqg9q7fxdgSuXRtDTh\nd7cAhbMTRnli37tkJTFCpW44/aRrEEYWhWfLTys0VRr9vLFuGmtr4H86GmSzW2d5\nQL2sr+Zj8aiz1Q1ZKJD7WZ2JefBPKFq9ZCuPrmCPcwKBgQDxhu62SGK/QwMt1HvX\nKYFvafsL0MQLOWPz3ZFpOZugaRuLJc06kwQf67PzdKErFTHewGOH0H9NfSMmjHgD\nf1z7fbAXquBCcPynoT9oDawMIohoEk2G01VfPuu5NVWs3PYRGxT+FKJCL8V2ybHZ\nTJrU7jAGv6EjkC2sjIOVgYKggwKBgQDvwG1X8c1iUFWLj3MscLz9/ZwFv3qQeaUL\nqPkNpider06Fu7rLo/lOBIdrWvBuQ/CaPuKSDYbQtFcZvOPHLnbeY3OQ2cKCiwhN\n54g5NSPOfpFXttlB0ci+7uc996Wbuf0jW7ykQ4Tj68W7oazrnnxcV+dsId3LModu\nM5JkfsVnEwKBgQCTOeoXSUaQSfwNGsImpRFWZeb3C9oE8YXhKIWz+77G6Gs2xeM1\nOlrAToBR/h0kUvYkT2gcaNbA2G/t1qBtmVyHnNUTiEDNn2wTjrJE7liayQ4XSljh\nv78BoSw1qLJB/isswDJqsw85gz8+KrJzwEN9WngCFRvXvtJopPqsztZemwKBgA8G\nRRPs0E0n8aR0UehoDD/yg7OMg1bIeMJZTXpAflkdrVMOJ6+ZUAdGm2Hr6gNO+KYB\n6Nr0RA2SL58qSi/yRnq7SsO6Eclygwu2xb+oB91p6xvPFqBcUDM+73jfqx4uMqHj\nntfAb3SFEvgmMpr1bJ+w1ozdNnQEb55FVxg7JY3HAoGBAIlDyH483tC4/jiUPZU5\nIHm+ch4a/+a5Ahr4REjMCRZ+LYDuMbARrIQEsooHGBlZ+Nj9HLk5m4ZT+7xbwuNu\n843bEnggVet1uymsUDF2hW4DrsXfSvmrrfK3EBfpgXlIGjyrmqmYAuKuJfwulpBE\nBMdGpMf01sTlV8HEkaFyUu2S\n-----END PRIVATE KEY-----\n",
+  "client_email": "temp-vision@optimal-card-452117-s7.iam.gserviceaccount.com",
+  "client_id": "104989618173534094560",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/temp-vision%40optimal-card-452117-s7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
